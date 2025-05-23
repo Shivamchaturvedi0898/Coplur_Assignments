@@ -38,5 +38,3 @@ public class UserController {
         return ResponseEntity.ok(userManager.deleteUser(id));
     }
 }
-
-
